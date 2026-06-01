@@ -724,8 +724,7 @@ Chaque groupe doit présenter :
 | Utilisation pertinente des nœuds et relations | 3 |
 | Qualité des requêtes Cypher | 4 |
 | Analyse des chemins d’attaque | 4 |
-| Pertinence des recommandations cyber | 3 |
-| Qualité de la présentation orale | 2 |
+| Pertinence des recommandations cyber | 5 |
 | **Total** | **20** |
 
 ---
